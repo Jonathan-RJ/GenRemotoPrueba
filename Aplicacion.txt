@@ -5,3 +5,7 @@ Hola soy el profesor y esto es el codigo funcional
 - Guardo aquí el cambio y en la consola GIT coloco "gti add ." para guardar el cambio en todos los códidos diponibles
 - El punto sirve para que el cambio se guarde en todos los códigos
 
+- git commit -m  "texto": sirve para empaquetar el cambio o bien comentar por consola el código al haber realizado un cambio 
+
+- git push --set-upstream origin MicodADO: sirve para cargar el códido en el repositorio indicado
+
