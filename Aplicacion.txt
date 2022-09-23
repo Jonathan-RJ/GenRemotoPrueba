@@ -1,1 +1,7 @@
 Hola soy el profesor y esto es el codigo funcional
+-Hola, soy ADO y acabo de crear mi repositorio usando "git branch MicodADO", luego "git checkout MicodADO"
+	 y después "git init" para editarlo
+
+- Guardo aquí el cambio y en la consola GIT coloco "gti add ." para guardar el cambio en todos los códidos diponibles
+- El punto sirve para que el cambio se guarde en todos los códigos
+
